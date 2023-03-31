@@ -1,0 +1,17 @@
+﻿  Source.cpp
+C:\Users\PC-DELL\source\repos\Facde\Facde\Source.cpp(68,21): warning C4129: 'P': unrecognized character escape sequence
+C:\Users\PC-DELL\source\repos\Facde\Facde\Source.cpp(80,27): warning C4129: 'P': unrecognized character escape sequence
+C:\Users\PC-DELL\source\repos\Facde\Facde\Source.cpp(118,103): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\PC-DELL\source\repos\Facde\Facde\Source.cpp(118,70): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\PC-DELL\source\repos\Facde\Facde\Source.cpp(188,17): warning C4129: 'P': unrecognized character escape sequence
+C:\Users\PC-DELL\source\repos\Facde\Facde\Source.cpp(225,27): warning C4129: 'P': unrecognized character escape sequence
+C:\Users\PC-DELL\source\repos\Facde\Facde\Source.cpp(142): warning C4715: 'web_cam::Web_Cam': not all control paths return a value
+  Facde.vcxproj -> C:\Users\PC-DELL\source\repos\Facde\x64\Debug\Facde.exe
